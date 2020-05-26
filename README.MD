@@ -4,7 +4,7 @@ The project is an application for generating report cards for students, based on
 
 ## Running the application
 
-To run the application, open a terminal window inside the folder where the project is located.Then, run the following commnad line:
+To run the application, open a terminal window inside the folder where the project is located. Then, run the following command line:
 
 ```
 python report_cards.py
