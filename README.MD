@@ -7,7 +7,7 @@ The project is an application for generating report cards for students, based on
 To run the application, open a terminal window inside the folder where the project is located.Then, run the following commnad line:
 
 ```
-phyton report_cards.py
+python report_cards.py
 ```
 
 The output text file will be name "report_cards.txt" and it will be created inside the same folder.
